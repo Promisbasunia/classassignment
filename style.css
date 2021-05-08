@@ -1,0 +1,122 @@
+.header-section{
+    background-color: #000;
+}
+.header-section .logo-section a{
+    line-height: 100px;
+}
+.header-section img{
+    width: 100px;
+    height: auto;
+
+}
+.manu-section{}
+.manu-section  ul{
+    text-align: right;
+    padding-bottom: 0;
+}
+.manu-section  ul li{
+    display: inline-block;
+}
+.manu-section  ul li a{
+    display: inline-block;
+    padding: 0 20px;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 100px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.manu-section  ul li a:hover{}
+
+
+
+/* start banner-sectionn */
+/* start banner-sectionn */
+.banner-sectionn{
+    background: url(img/banndr.jpg) top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0;
+}
+.banner-sectionn h1{
+    font-weight: 700;
+    font-size: 50px;
+
+}
+.banner-sectionn h6{
+    font-weight: 700;
+    font-size: 23px;
+}
+.banner-sectionn a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 20px;
+    background-color: #000;
+    color: #fff;
+}
+
+
+/* simply-dummy-section */
+/* simply-dummy-section */
+
+.simply-dummy-section{
+    background-color: #444;
+}
+.simply-dummy-section p{
+    color: #fff;
+    font-weight: 700;
+    font-size: 25px;
+    padding: 100px 0;
+    line-height: 60px;
+}
+.simply-dummy-section img{
+    padding: 100px;
+}
+
+
+/* start our team-section */
+/* start our team-section */
+.our-team{
+    background-color: #458B83;
+    padding-bottom: 50px;
+}
+.our-team h2{
+    font-size: 58px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+}
+.our-team img{
+    height: 300px;
+    width: auto;
+}
+
+
+
+
+.our-team .social-manu{
+    padding: 20px;
+  
+}
+.our-team .social-manu ul{
+    padding-left: 0;
+}
+.our-team .social-manu li{
+    display: inline-block;
+    padding: 5px;
+}
+.our-team .social-manu li a{
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    height: 30px;
+    width: 30px;
+    background-color: #000;
+    border-radius: 50%;
+   
+}
+.our-team .social-manu li a:hover{
+    color: #458B83;
+}
